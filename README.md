@@ -1,17 +1,13 @@
 # Localize - Bridging Language Gaps in Education
 
-Localize is an innovative project developed by Jaber Jaber and Zaid Rjoub for the Artificial Intelligence Hackathon 2024. We aim to break down language barriers in education by leveraging advanced AI technology for seamless video translation.
 
-## Hackathon
-Find out more about the hackathon [here](https://www.zincaihackathon.com/).
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Python Version
-We recommend using Python 3.8 or later. Download Python [here](https://www.python.org/downloads/).
+[![Hackathon](https://img.shields.io/badge/Artificial%20Intelligence%20Hackathon-2024-blueviolet)](https://www.zincaihackathon.com/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 
 ![Blue Modern Zoom Virtual Background (10) - Copy](https://github.com/jaberjaber23/localize/assets/103749727/73677bc1-d1d8-42d9-b3f9-3b6e01768cd2)
+
+Localize is an innovative project developed by Jaber Jaber and Zaid Rjoub for the Artificial Intelligence Hackathon 2024. We aim to break down language barriers in education by leveraging advanced AI technology for seamless video translation.
 
 
 ## 🌍 The Problem
