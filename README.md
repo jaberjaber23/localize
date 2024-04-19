@@ -2,9 +2,8 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 
-<div align="center">
-  <img src="https://localize-ai.com/your_image_url_here" alt="Localize Logo" width="200px" height="200px">
-</div>
+![Blue Modern Zoom Virtual Background (10) - Copy](https://github.com/jaberjaber23/localize/assets/103749727/d67cd207-acd0-4c1d-84ce-e1c67988ef8b)
+
 
 # Localize
 
