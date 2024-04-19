@@ -1,5 +1,6 @@
-![Blue Modern Zoom Virtual Background (10) - Copy](https://github.com/jaberjaber23/localize/assets/103749727/698eb63d-2b9a-4822-8ac8-cd115c12474b)
+![Blue Modern Zoom Virtual Background (10) - Copy](https://github.com/jaberjaber23/localize/assets/103749727/3e7945f6-7196-4f1c-815c-75ab1e0766d1)
 </div>
+
 
 
 # Localize
