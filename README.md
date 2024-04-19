@@ -1,4 +1,4 @@
-[![Hackathon](https://img.shields.io/badge/Generative%20AI%20Hackathon-2024-blueviolet)](https://hackathon-link)
+[![Hackathon](https://img.shields.io/badge/Artificial%20Intelligence%20AI%20Hackathon-2024-blueviolet)](https://hackathon-link)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 
