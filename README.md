@@ -1,11 +1,10 @@
-[![Hackathon](https://img.shields.io/badge/Artificial%20Intelligence%20Hackathon-2024-blueviolet)]([https://hackathon-link](https://www.zincaihackathon.com/))
+[![Hackathon](https://img.shields.io/badge/Artificial%20Intelligence%20Hackathon-2024-blueviolet)](https://www.zincaihackathon.com/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 
-![Blue Modern Zoom Virtual Background (10) - Copy](https://github.com/jaberjaber23/localize/assets/103749727/3e7945f6-7196-4f1c-815c-75ab1e0766d1)
+<div align="center">
+  <img src="https://localize-ai.com/your_image_url_here" alt="Localize Logo" width="200px" height="200px">
 </div>
-
-
 
 # Localize
 
