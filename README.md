@@ -19,7 +19,7 @@ Localize provides a solution to this pressing issue by leveraging AI technology 
 
 1. **Dubbing Model**: An advanced AI model capable of seamlessly extracting subtitles from videos and creating perfectly synchronized dubbed versions. This groundbreaking technology ensures that educational content is accessible to individuals regardless of their native language.
 
-2. **Educational Chatbot**: A custom chatbot powered by a fine-tuned Language Model (LLM) that comprehends and responds to questions derived from video content. This chatbot enhances the learning experience by providing detailed and informative answers, catering to learners' needs in real-time.
+2. **Educational Chatbot**: A RAG custom chatbot powered by Langchain and GPT-4 API that comprehends and responds to questions derived from video content. This chatbot enhances the learning experience by providing detailed and informative answers, catering to learners' needs in real-time.
 
 ## 🚀 Features
 
