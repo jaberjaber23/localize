@@ -36,7 +36,7 @@ For a quick demonstration of Localize's capabilities, visit our online demo [her
 
 To install and run Localize on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your_username/localize.git`
+1. Clone the repository: `git clone https://github.com/jaberjaber23/localize.git`
 2. Navigate to the project directory: `cd localize`
 3. Install dependencies: `npm install`
 4. Run the application: `npm start`
@@ -67,5 +67,5 @@ This project is licensed under the [MIT License](link_to_license).
 
 For any inquiries or feedback, please contact us:
 
-- Jaber Jaber: jaber@example.com
-- Zaid Rjoub: zaid@example.com
+- Jaber Jaber: jaber@localize-ai.com
+- Zaid Rjoub: z.rjoub@localize-ai.com
