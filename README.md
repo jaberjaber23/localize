@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://your_image_url_here" alt="Localize Logo" width="200px" height="200px">
+  <img src=![Blue Modern Zoom Virtual Background (10) - Copy](https://github.com/jaberjaber23/localize/assets/103749727/698eb63d-2b9a-4822-8ac8-cd115c12474b) alt="Localize Logo" width="200px" height="200px">
 </div>
+
 
 # Localize
 
